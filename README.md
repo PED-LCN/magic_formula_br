@@ -1,6 +1,6 @@
-# 📈 Deep Value Strategy Screener
+# 📈 Deep Value Strategy Screener 🇧🇷
 
-> Ferramenta automatizada para análise fundamentalista de ações brasileiras (B3) baseada na metodologia da magic formula e Deep Value com Z-Score .
+> Ferramenta automatizada para análise fundamentalista de ações brasileiras  (B3)  baseada na metodologia da magic formula e Deep Value com Z-Score .
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-green)
